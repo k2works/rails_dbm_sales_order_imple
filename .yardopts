@@ -1,0 +1,5 @@
+--charset UTF-8
+--readme README.md
+lib/**/*.rb
+-
+docs/index.html

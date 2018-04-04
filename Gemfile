@@ -53,3 +53,9 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 group :development do
   gem 'etude_for_ops', git: 'https://github.com/k2works/etude_for_ops.git', branch: 'develop'
 end
+
+group :doc do
+  gem 'yard'
+  gem 'asciidoctor'
+  gem 'asciidoctor-diagram'
+end

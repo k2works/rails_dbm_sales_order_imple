@@ -21,3 +21,6 @@
 ops
 .env
 .env.*
+
+/vendor
+docs/.asciidoctor
