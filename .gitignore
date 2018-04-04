@@ -23,4 +23,5 @@ ops
 .env.*
 
 /vendor
-docs/.asciidoctor
+docs/.asciidoct
+docs/xtea/backup
