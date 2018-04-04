@@ -4,7 +4,7 @@ services:
     build: .
     environment:
       MYSQL_ROOT_PASSWORD: 'password'
-      MYSQL_USER: rails_conceptware_sales_orosi_imple
+      MYSQL_USER: app
       MYSQL_PASSWORD: password
       MYSQL_DATABASE: rails_dbm_sales_order_imple_development
       TZ: "Asia/Tokyo"
