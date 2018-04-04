@@ -49,3 +49,7 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+group :development do
+  gem 'etude_for_ops', git: 'https://github.com/k2works/etude_for_ops.git', branch: 'develop'
+end
