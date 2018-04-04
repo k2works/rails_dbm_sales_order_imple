@@ -1,6 +1,6 @@
 [TOC]
 
-= RailsConceptWareSalesOrosiImple
+= RailsDbmSalesOrosiImple
 
 == 目的
 
